@@ -1,17 +1,18 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [OBJETOS INTELIGENTES CONECTADOS] 05K sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05K
+## Projeto: "Dichavador automatico"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Gustavo Milena Abril Santos 41504763
+* Vitor Malvezzi 31515411
+* Vitor Hugo Tamashiro 31524362
+* João Braga 3154339
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+O objetivo do nosso projeto é fazer um triturador de ervas automatico,
+Utilizando uma placa arduino, motor giratório e garras
 
 _______________________________________
 Obs:
