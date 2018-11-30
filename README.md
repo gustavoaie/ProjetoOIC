@@ -10,23 +10,25 @@
 * João Braga 3154339
 
 ## Descrição resumida do projeto
+Por meio do aplicativo blynk usando conexão com a internet através do módulo ESP8266, ativamos os leds para transmitir mensagens em código morse.
 
-Hardware: 
+## Hardware: 
 mini Protoboard 400 furos
 nodeMCU
 ESP8266
-Registor 220 ohm
+Resistor 220 ohm
 LED
 
+## Protocolo:
+TCP/IP
+SPI
 
-Interface: 
+## Interface: 
 Blynk
 
-Software:
+## Software:
 Arduino IDE 1.8.7
 
-Projeto:
-Por meio do aplicativo blynk usando conexão com a internet através do módulo ESP8266, ativamos os leds para transmitir mensagens em código morse.
 
 _______________________________________
 ## Referencias:
